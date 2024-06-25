@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1f10",
+      "first_name": "",
+      "last_name": "",
+      "email": "",
+      "password": "",
+      "phone_number": ""
+    },
+    {
+      "id": "3fd8",
+      "first_name": "Ragul ",
+      "last_name": "Manikandan",
+      "email": "ragulm.21cse@kongu.edu",
+      "password": "Ragul@483.",
+      "phone_number": "8903972993"
+    }
+  ]
+}
